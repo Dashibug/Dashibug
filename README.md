@@ -31,8 +31,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dashibug&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dashibug&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dashibug&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dashibug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
