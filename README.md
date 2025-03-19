@@ -6,8 +6,8 @@
 
 - NUST MISIS (Since 2021)  
 - Deep Learning School Advanced (2022-2023)  
-- Basics of Statistics, Bioinformatics Institute (2025)  
 - Neural Networks and Computer Vision, Samsung Innovation Campus (2024)
+- Basics of Statistics, Bioinformatics Institute (2025)  
 
 
 ### 💻 ML Stack:
