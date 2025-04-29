@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dashibug&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dashibug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Hackathons and Championships
+- [LLM Coding Challenge (Alpha Insurance case)]([http://llm-challenge.com]) 1st🥇 place 2024 | [Diploma]([https://disk.yandex.ru/i/219QJztZcuuFNQ]) | [Solution]([https://github.com/ez3nx/llm-coding-challenge])
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
