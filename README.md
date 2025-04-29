@@ -34,6 +34,6 @@
 
 
 ## 🏆 Hackathons and Championships
-- [LLM Coding Challenge (Alpha Insurance case)]([http://llm-challenge.com]) 1st🥇 place 2024 | [Diploma]([https://disk.yandex.ru/i/219QJztZcuuFNQ]) | [Solution]([https://github.com/ez3nx/llm-coding-challenge])
+- 1st🥇 place [LLM Coding Challenge (Alpha Insurance case)](http://llm-challenge.com) (2024) | [Diploma](https://disk.yandex.ru/i/219QJztZcuuFNQ) | [Solution](https://github.com/ez3nx/llm-coding-challenge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
