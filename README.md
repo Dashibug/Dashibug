@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dashi</h1>
-<h3 align="center">ML Engineer interested in deep learning and computer vision.</h3>
+<h3 align="center">ML Engineer interested in NLP and Computer Vision.</h3>
 
 
 ### 👨‍🎓 Education:
