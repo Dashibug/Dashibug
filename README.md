@@ -4,10 +4,10 @@
 
 ### 👨‍🎓 Education:
 
-- NUST MISIS (Since 2021)  
+- B.S., NUST MISIS (2021-2025)  
 - Deep Learning School Advanced (2022-2023)  
 - Neural Networks and Computer Vision, Samsung Innovation Campus (2024)
-- Basics of Statistics, Bioinformatics Institute (2025)  
+- M.S., ITMO AI Talent Hub (2025-2027)
 
 
 ### 💻 ML Stack:
