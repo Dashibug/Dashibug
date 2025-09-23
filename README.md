@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dashi</h1>
 <h3 align="center">ML Engineer interested in NLP and Computer Vision.</h3>
 
-[My CV](https://disk.yandex.ru/i/VRKGEB_pdaiF3g)
+### [My CV](https://disk.yandex.ru/i/VRKGEB_pdaiF3g)
 
 ### 👨‍🎓 Education:
 
