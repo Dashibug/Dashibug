@@ -7,6 +7,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://disk.yandex.ru/i/_gsX0RSx3SW4rQ">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 ### 👨‍🎓 Education:
 
 - B.S., NUST MISIS (2021-2025)  
