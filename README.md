@@ -35,9 +35,6 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:megres1337@mail.ru) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dashik1337)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dashibug&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
 
 ## 🏆 Hackathons and Championships
 - 1st🥇 place [LLM Coding Challenge (Alpha Insurance case)](http://llm-challenge.com) (2025) | [Diploma](https://disk.yandex.ru/i/219QJztZcuuFNQ) | [Solution](https://github.com/ez3nx/llm-coding-challenge)
