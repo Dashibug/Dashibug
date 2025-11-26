@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dashi</h1>
 <h3 align="center">ML Engineer interested in NLP and Computer Vision.</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://disk.yandex.ru/i/_gsX0RSx3SW4rQ">
     <img src="https://img.shields.io/badge/-My%20CV-181717?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
@@ -23,12 +23,21 @@
 
 ### 🧑‍💻 Languages:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
 ### 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:megres1337@mail.ru) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dashik1337)
+<p align="left">
+  <a href="mailto:megres1337@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/dashik1337">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 
 ## 🏆 Hackathons and Championships
