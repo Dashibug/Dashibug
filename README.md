@@ -43,6 +43,6 @@
 ## 🏆 Hackathons and Championships
 - 1st🥇 place [LLM Coding Challenge (Alpha Insurance case)](http://llm-challenge.com) (2025) | [Diploma](https://disk.yandex.ru/i/219QJztZcuuFNQ) | [Solution](https://github.com/ez3nx/llm-coding-challenge)
 - 1st🥇 place [AI CRM Assistant Challenge](https://codenrock.com/en/contests/ai-crm-2025/) (2025) | [Diploma](https://disk.yandex.ru/i/uViWLLwKzqlngQ) | [Solution](https://github.com/Dashibug/AI-CRM-Assistant-Challenge)
-- 3rd🥉 place [RN Digital Student Hackathon](https://events.rn.digital/hack/it2025vuz/leaderboard/0) (2025) | [Diploma]() | [Solution]()
+- 3rd🥉 place [RN Digital Student Hackathon](https://events.rn.digital/hack/it2025vuz/leaderboard/0) (2025) | [Diploma](https://disk.yandex.ru/i/C5U8RwrHFqvJVA) | [NDA]
 
 
