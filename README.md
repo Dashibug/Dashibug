@@ -2,7 +2,7 @@
 <h3 align="center">ML Engineer interested in NLP and Computer Vision.</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1P_J04R5KvLhssp6Z1PGo323F2wPsbo6E/view?usp=share_link">
+  <a href="https://drive.google.com/file/d/1i0tJg8G8kNPTNSC9tCtTfI-IxkyTotPj/view?usp=share_link">
     <img src="https://img.shields.io/badge/-My%20CV-181717?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
@@ -35,6 +35,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/dashik1337">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dashitsybikzhapov/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
