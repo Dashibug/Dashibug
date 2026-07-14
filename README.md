@@ -2,7 +2,7 @@
 <h3 align="center">ML Engineer interested in NLP and Computer Vision.</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1i0tJg8G8kNPTNSC9tCtTfI-IxkyTotPj/view?usp=share_link">
+  <a href="https://drive.google.com/file/d/1L8ohxT2gkAZemfdLrbhOqXXhYVfH4akW/view?usp=share_link">
     <img src="https://img.shields.io/badge/-My%20CV-181717?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
